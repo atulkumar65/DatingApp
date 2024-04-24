@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: DatingApp [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Backend\\DatingApp.csproj"
+        }
+    ]
+}
